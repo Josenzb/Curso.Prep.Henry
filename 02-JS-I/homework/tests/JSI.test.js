@@ -67,7 +67,7 @@ describe('nuevaMultiplicacion', function() {
 
 describe('nuevoModulo', function() {
   it('Deberia ser un booleano', function() {
-    expect(nuevoModulo).toBe(true);
+    expect(nuevoModulo).toBe('true');
   });
 });
 
